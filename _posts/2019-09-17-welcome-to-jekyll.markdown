@@ -8,6 +8,8 @@ published: true
 
 ![lucsic.jpg](/_posts/lucsic.jpg)
 
+<iframe src="https://open.spotify.com/embed/track/2Tt0lBrZ7g8kmtkSwjD6yP" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 我记得应该是2014年我第一次听到Nujabes 和 Luv （Sic）。 具体情节和环境已经模糊， 我只记得Luc（Sic）Part 2 给我的清晰而且精美的感觉。
 
 “Relax。。。“ 就这样简单开场，一点点的铺开。非常普通的beat 却描着我所了解的最让人舒服的jazz背景Track。如果单独听那支jazz track，我想我会不断的重复一张日落的画面。可以想像一个人站在一个小山丘上，远远地望着太阳的红色把天点上面粉色。之后每次再听这支track， 我的感觉都是不断加强这个意象。 加强到有些厌恶我的不决和犹豫：是不是要在这幅画面中加入其它更多的任何一点。 如果我是画家， 我会画出了太阳， 山丘之外的任何一物吗？ 
