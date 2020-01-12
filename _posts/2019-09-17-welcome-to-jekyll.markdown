@@ -6,7 +6,7 @@ categories: jekyll update
 published: true
 ---
 
-![lucsic.jpg](/_post/lucsic.jpg)
+![lucsic.jpg](/_posts/lucsic.jpg)
 
 我记得应该是2014年我第一次听到Nujabes 和 Luv （Sic）。 具体情节和环境已经模糊， 我只记得Luc（Sic）Part 2 给我的清晰而且精美的感觉。
 
