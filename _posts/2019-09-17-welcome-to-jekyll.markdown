@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Nujabes
-date: '2019-09-17 05:55:30 -0700'
+date: '2020-01-12 05:55:30 -0700'
 categories: jekyll update
 published: true
 ---
 
-![lucsic.jpg](/_posts/lucsic.jpg)
+![lucsic.jpg](/assets/lucsic.jpg)
 
 <iframe src="https://open.spotify.com/embed/track/2Tt0lBrZ7g8kmtkSwjD6yP" width="600" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
