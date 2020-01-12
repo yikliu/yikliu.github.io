@@ -3,7 +3,7 @@ layout: post
 title: Nujabes
 date: '2019-09-17 05:55:30 -0700'
 categories: jekyll update
-published: true
+published: false
 ---
 我记得应该是2014年我第一次听到Nujabes 和 Luv （Sic）。 具体情节和环境已经模糊， 我只记得Luc（Sic）Part 2 给我的清晰而且精美的感觉。
 
