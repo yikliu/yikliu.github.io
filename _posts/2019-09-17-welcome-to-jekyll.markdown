@@ -8,7 +8,7 @@ published: true
 
 ![lucsic.jpg](/_posts/lucsic.jpg)
 
-<iframe src="https://open.spotify.com/embed/track/2Tt0lBrZ7g8kmtkSwjD6yP" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/track/2Tt0lBrZ7g8kmtkSwjD6yP" width="600" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 我记得应该是2014年我第一次听到Nujabes 和 Luv （Sic）。 具体情节和环境已经模糊， 我只记得Luc（Sic）Part 2 给我的清晰而且精美的感觉。
 
